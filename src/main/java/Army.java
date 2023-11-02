@@ -4,11 +4,11 @@ public class Army {
 
         int armyLannister = 147483648;
 
-        System.out.println("Армия Ланнистеров насчитывает: " + armyLannister + " единиц");
+        System.out.println("Пехота Ланнистеров насчитывает: " + armyLannister + " единиц");
 
         int armySaruman = 1147483848;
 
-        System.out.println("Армия Сарумана насчитывает: " + armySaruman + " единиц");
+        System.out.println("Пехота Сарумана насчитывает: " + armySaruman + " единиц");
 
         int sumOfArmies = (armyLannister + armySaruman);
 
